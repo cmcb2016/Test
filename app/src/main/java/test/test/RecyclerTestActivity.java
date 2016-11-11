@@ -20,6 +20,11 @@ public class RecyclerTestActivity extends AppCompatActivity {
         mRcyView.setLayoutManager(new GridLayoutManager(RecyclerTestActivity.this, 1));
     }
 
+    //
+    //
+    //
+    //
+
     private class MyAdapter extends RecyclerView.Adapter {
 
         @Override
